@@ -3,11 +3,6 @@
 code - https://github.com/snee-a/Drink_of_the_day
 Output- (https://snee-a.github.io/Drink_of_the_day/)
 
-## 🧪 Demo
-
-![App Demo](./video.gif)
-
----
 
 **"Are you a drink lover or an adventurous sipper who loves to try something new every day?"**  
 Then **this app is made just for you!**
